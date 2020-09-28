@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #336677;
+}
+
+.geral{
+    width: 960px;
+    background-color: #5ca7a1;
+    float: left;
+    box-shadow: 2px 2px 10px;
+    margin: 0 15%;
+    border-radius: 10px;
+    border: 2px solid black;
+
+}
+
+.topo{
+    width: 900px;
+    height: 240px;
+    float: left;
+    box-shadow: 2px 2px 10px;
+    margin: 10px 30px;
+    border-radius: 10px;
+    background-color: #7cc7ca;
+    border: 2px solid black;
+}
+
+.menu{
+    width: 900px;
+    height: 60px;
+    float: left;
+    box-shadow: 2px 2px 10px;
+    margin: 10px 30px;
+    border-radius: 10px;
+    background-color: #7cb4cc;
+    border: 2px solid black;
+
+}
+
+.lateral{
+    width: 200px;
+    height: 700px;
+    float: left;
+    box-shadow: 2px 2px 10px;
+    margin: 10px 15px 10px 30px;
+    border-radius: 10px;
+    background-color: #6fbbd0;
+    border: 2px solid black;
+}
+
+.conteudo{
+    width: 670px;
+    height: 700px;
+    float: left;
+    box-shadow: 2px 2px 10px;
+    margin: 10px 15px 10px 15px; 
+    border-radius: 10px;
+    background-color: #6095e0;
+    border: 2px solid black;
+}
+
+.rodape{
+    width: 900px;
+    height: 50px;
+    float: left;
+    box-shadow: 2px 2px 10px;
+    margin: 10px 30px;
+    border-radius: 10px;
+    background-color: #60e2bc;
+    border: 2px solid black;
+}
